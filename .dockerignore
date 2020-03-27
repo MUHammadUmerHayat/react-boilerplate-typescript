@@ -1,0 +1,20 @@
+# Application: auto-generated stuff into git
+coverage
+build
+node_modules
+stats.json
+npm-debug.log
+
+# Docker
+Dockerfile*
+docker-compose*
+.dockerignore
+
+# Git
+.git
+.gitignore
+
+# Miscellaneous
+README.md
+LICENSE
+.vscode
